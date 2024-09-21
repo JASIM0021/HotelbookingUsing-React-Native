@@ -1,0 +1,9 @@
+[
+  {
+    "id": 1,
+    "hotelId": 1,
+    "hotelName": "Hotel Paradise",
+    "date": "2024-09-25",
+    "status": "confirmed"
+  }
+]
